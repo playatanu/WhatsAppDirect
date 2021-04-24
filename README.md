@@ -2,7 +2,7 @@
 
 
 ## v1.0
-This App can Send WhatsApp Message without Saveing Phone Number
+This App can Send WhatsApp Message without Saving Phone Number
 
 DEMO 
 
